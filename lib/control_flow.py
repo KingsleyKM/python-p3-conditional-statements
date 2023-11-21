@@ -35,5 +35,5 @@ def calculator(operation, num1, num2):
     elif operation == "/" : 
         return num1 / num2
     else :
-        return "Invalid operation"
+        return print("Invalid operation")
     
